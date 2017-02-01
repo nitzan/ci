@@ -10,6 +10,7 @@ permalink: /lectures/
 	    	<a href="{{post.url}}"> 
 		        <li>
 					{{ post.title }} {% if post.studio %}<sup>studio</sup>{% endif %}{% if post.lab %}<sup>lab</sup>{% endif %}<sup>{{ post.due }}</sup>
+					
 		        </li>
 	        </a>
 	    {% endfor %}

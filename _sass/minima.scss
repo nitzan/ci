@@ -1,7 +1,7 @@
 // Define defaults for each variable.
 
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$base-font-size:   15px ;
+$base-font-size:   18px ;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -43,3 +43,43 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+
+
+
+
+
+a {
+	
+	color:black;
+	text-decoration: none;
+	
+	&:hover {border-bottom: 1px dashed black;text-decoration: none;}
+	
+	
+	
+}
+
+
+.site-footer {border-top:0;}
+
+.site-footer {position: fixed; bottom:0;width: 100%; text-align: center;padding: 20px 0 0 0;.footer-col{margin-bottom: 0;}background:white;}
+
+main.page-content {padding-bottom: 80px;}
+
+.site-header  {border-bottom: 0;}
+
+a.site-title {&:hover {border-bottom: 0;}font-weight:bold;font-size: 1.2em;}
+
+body { /* replace with your selector */
+	font-family: "Ennore Regular";
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+sup {background: none;font-style: italic;letter-spacing: 1px;}
+
+.post-content h2 {border-bottom: 0;}
+
+
