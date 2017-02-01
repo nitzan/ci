@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Links
 - our [Slack channel](http://core-interaction-sp.slack.com)
+
 ## Dev Referenece
 
 ## Syllabus
