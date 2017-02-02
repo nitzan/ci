@@ -26,10 +26,11 @@ $on-laptop:        800px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
+  .wrapper {
+    padding-right: $spacing-unit / 2;
+
+    padding-left: $spacing-unit / 2;
+  }
 // }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
@@ -83,3 +84,14 @@ sup {background: none;font-style: italic;letter-spacing: 1px;}
 .post-content h2 {border-bottom: 0;}
 
 
+iframe {margin: 50px 0;}
+
+blockquote {color: black;border-left: 0;line-height: 1.2em;font-style: normal;padding:0 50px;}
+
+p + blockquote {margin-top: 50px;}
+blockquote + p {margin-top: 50px;}
+
+hr {width: 10%;margin: 20px 0;}
+
+
+.wrapper {max-width: 800px;}
