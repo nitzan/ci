@@ -14,7 +14,7 @@ Spring 2017
 
 
 Studio
-9 – 11:40
+9 – 11:40am
 Tuesday, Friday 
 [Nitzan Hermon](mailto:x@byed.it)
 
