@@ -10,7 +10,7 @@ permalink: /about/
 [Syllabus](http://files.bryantwells.com/core-interaction_syllabus.pdf)
 
 
-<br>
+
 ~~~  
 git status
 git add .
