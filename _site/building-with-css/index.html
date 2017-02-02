@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Building With CSS</title>
+  <meta name="description" content="Topics covered">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="/building-with-css/">
+  <link rel="alternate" type="application/rss+xml" title="Core Interaction" href="/feed.xml">
+  
+  
+  <link rel="stylesheet" href="https://webfonts.fontstand.com/WF-000544-5b581c9c69bcdc69df41a78131d2dd11.css" type="text/css"/>
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Core Interaction</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/assignments/">Assignments</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/lectures/">Lectures</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/about/">Resources</a>
+          
+        
+          
+          <a class="page-link" href="/syllabus/">Syllabus</a>
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+	<header class="post-header">
+		<h1>Building With CSS</h1>
+	</header>
+
+	<div class="post-content" itemprop="articleBody">
+		<h3 id="topics-covered">Topics covered</h3>
+
+<ol>
+  <li>Building an Index</li>
+  <li>HTML5 semantic elements</li>
+  <li>CSS display properties</li>
+  <li>CSS box model</li>
+  <li>CSS positioning</li>
+</ol>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>Build an index page for yourself and add sub-directories for Lab and Studio. use the following structure:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| index.html 
+|
+| studio/
+|--- week_01.html
+|--- week_02.html
+|--- etc...
+|
+| lab/
+|--- 01_something-beautiful.html
+|--- etc...
+</code></pre>
+</div>
+
+<p>Download the <a href="/files/workshop-template_02.zip">template</a> to get started. It should look like this:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| 02_building-with-css/
+|--- index.html
+|--- assets/
+|--- --- css/
+|--- --- media/
+</code></pre>
+</div>
+
+<p>Utilize this file structure for all of your projects, external assets should be grouped within the same directory. You should always name the main html file in a directory ‘index.html’.</p>
+
+<h2 id="elements-in-html5">Elements in HTML5</h2>
+
+<p>Semantic elements in HTML5 allow us to more accurately describe the meaning of an element. Using tags appropriately helps collaborators, web crawlers, and screen-readers better understand the content on a page. Outside of that, using semantic markup gives you more flexibility in tareting elemenets in CSS and JS.</p>
+
+<p>We will be using the following elements in this weeks workshop:</p>
+
+<p><code class="highlighter-rouge">&lt;header&gt;</code> <code class="highlighter-rouge">&lt;footer&gt;</code> <code class="highlighter-rouge">&lt;nav&gt;</code> <code class="highlighter-rouge">&lt;figure&gt;</code> <code class="highlighter-rouge">&lt;section&gt;</code> <code class="highlighter-rouge">&lt;video&gt;</code> <code class="highlighter-rouge">&lt;audio&gt;</code></p>
+
+<h2 id="the-css-display-property">The CSS Display Property</h2>
+
+<p>Link to your CSS styles using the following syntax:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;link rel="stylesheet" type="text/css" href="styles.css"&gt;
+</code></pre>
+</div>
+
+<p>Within the CSS document, style an element using the following syntax:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>selector { property: value; }
+</code></pre>
+</div>
+
+<p>The ‘display’ property allows you to control how/if an element is displayed. We are going to use the following display values:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>display: block  
+display: inline  
+display: inline-block  
+display: none
+</code></pre>
+</div>
+
+<h2 id="the-css-box-model">The CSS Box Model</h2>
+
+<p><img src="http://files.bryantwells.com/box-model.svg" alt="" /></p>
+
+<p>Often, you may want to add padding to an element without adding to the overall size of the element itself. We can control the way an element’s size is calculated by altering the element’s ‘box-sizing’ property.</p>
+
+<p>The default value for block level elements is <code class="highlighter-rouge">box-sizing: content-box</code></p>
+
+<p>Use <code class="highlighter-rouge">border-box</code> to ensure padding is included when the <code class="highlighter-rouge">width</code> and <code class="highlighter-rouge">height</code> properties of a block level elemenet are declared.</p>
+
+<h2 id="css-positioning">CSS Positioning</h2>
+
+<p>Positions in a web document are calculated from the top-left corner of the page.</p>
+
+<p>The <code class="highlighter-rouge">position</code> property describes how an element is positioned. We will take a look at the following position properties:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>position: static 
+position: relative 
+position: absolute  
+position: fixed 
+</code></pre>
+</div>
+
+<p>You can use position values and set the <code class="highlighter-rouge">top</code> <code class="highlighter-rouge">right</code> <code class="highlighter-rouge">bottom</code> and <code class="highlighter-rouge">left</code> properties to position an element.</p>
+
+<h4 id="position-static">Position: Static</h4>
+<p>This is the default value for an element in the DOM. Nothing special here. An element is placed right below or to the right of it’s sibling.</p>
+
+<h4 id="position-relative">Position: Relative</h4>
+<p>This value positions an element relative to <strong>where it would normally be placed within the DOM</strong>.</p>
+
+<h4 id="position-absolute">Position: Absolute</h4>
+<p>This value positions an element relative to its nearest <strong>positioned</strong> ancestor. That means relative to an ancestor that has a position value other than <code class="highlighter-rouge">static</code>. An Absolutely positioned element is also taken out of the normal flow of the DOM — it’s siblings will be positioned as if they were unaware of it’s existance.</p>
+
+<h4 id="position-fixed">Position: Fixed</h4>
+<p>This value positions an element relative to the viewport. So it will always stay in the same place, even if the windw is scaled or scrolled. Elements with a fixed position are also taken out of the normal flow of the DOM.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><a href="http://www.w3schools.com/html/html5_new_elements.asp">HTML5 Elements</a><br />
+<a href="http://learn.shayhowe.com/html-css/positioning-content/">Positioning Content</a></p>
+
+<h2 id="homework">Homework</h2>
+
+<p><a href="/assignments/an-index/">An Index</a><br />
+<a href="/assignments/a-collection/">A Collection</a></p>
+
+	</div>
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+	<div class="wrapper">
+
+		<div class="footer-col-wrapper">
+			<div class="footer-col">
+				<p>Core Interaction | PUCD 2125 | Spring 2017
+</p>
+			</div>
+		</div>
+
+	</div>
+</footer>
+
+
+  </body>
+
+</html>
