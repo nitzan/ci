@@ -4,7 +4,8 @@ category: assignments
 title: 'Something Beautiful'
 lab: true
 studio: false
-due: '02-02'
+due: 'Week 2'
+permalink: /something-beautiful/
 ---
 
 *Due Week 2*
