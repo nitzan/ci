@@ -51,13 +51,27 @@ $on-laptop:        800px !default;
 
 a {
 	
-	color:black;
+	color: $grey-color-dark;
 	text-decoration: none;
 	
-	&:hover {border-bottom: 1px dashed black;text-decoration: none;}
-	
-	
-	
+	&:hover {
+		border-bottom: 1px dotted black;
+		text-decoration: none;
+	}
+
+}
+
+.post {
+	img {
+		margin: auto;
+	}
+	a {
+		border-bottom: 1px dotted black;
+
+		&:hover {
+			background-color: $yellow-color;
+		}
+	}
 }
 
 
@@ -65,7 +79,8 @@ a {
 
 .site-footer {position: fixed; bottom:0;width: 100%; text-align: center;padding: 20px 0 0 0;.footer-col{margin-bottom: 0;}background:white;}
 
-main.page-content {padding-bottom: 80px;}
+main.page-content {
+	padding-bottom: 80px;}
 
 .site-header  {border-bottom: 0;}
 
