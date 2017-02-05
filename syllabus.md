@@ -14,14 +14,14 @@ Spring 2017
 
 
 Studio
-9 – 11:40am
-Tuesday, Friday 
+9 – 11:40am  
+Tuesday, Friday  
 [Nitzan Hermon](mailto:x@byed.it)
 
 
 Lab
 9 – 11:40am   
-Thursdays
+Thursdays  
 [Bryant Wells](mailto:bryant@bryantwells.com)
 
 
@@ -47,20 +47,20 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 
 | Week    | Lab | Studio
 | ------- |:----- | -----
-|  1  | HTML, Servers & Git| Intro to thinking 
+|  1  | HTML, Servers & Git| Intro to thinking
 |  2  | HTML & CSS | First graphic interfaces
 |  3  | Advanced CSS I | Birth of the user
-|  4  | Advanced CSS II | Smalltalk and Model View Controller 
+|  4  | Advanced CSS II | Smalltalk and Model View Controller
 |  5  | Responsive Practices |  Early internet: 1993, Creative Commons, Slow Web
 |  6  | Work Session | Layout and visual language
 |  7  | Midterm Critique | Geometry and optical art
 |  8  | Javacsript I | Mechanics of reading
 |  9  | Javscript II | Typesetting: metal, and screens
-|  10 | jQuery I | Type and letterforms: Basics 
+|  10 | jQuery I | Type and letterforms: Basics
 |  11 | jQuery II | Font technology
 |  12 | JS Libraries | Interaction of color
 |  13 | Work Session | Thinking in motion
-|  14 | Work Session | Prototyping: tools and techniques 
+|  14 | Work Session | Prototyping: tools and techniques
 |  15 | Final Critique | Thinking ahead: How to approach interests
 
 
@@ -70,14 +70,14 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 *By the end of the semester, students will be able to:*
 
 
-### Studio 
+### Studio
 
-1. gain a broad understanding of the fundamentals of interfaces, interface design and interactive systems 
-2. understand the mechanics of a digital product, and various approaches to designing systems 
+1. gain a broad understanding of the fundamentals of interfaces, interface design and interactive systems
+2. understand the mechanics of a digital product, and various approaches to designing systems
 3. trace the narrative of the internet. Its history and future.
-4. be able to articulate and develop on ideas from art, geometry, and graphics in designing interactive systems 
-5. articulate and make positive use of personal research interests, as the foundation for the student's practice 
-6. learn to use various tools for communication of ideas, and prototyping 
+4. be able to articulate and develop on ideas from art, geometry, and graphics in designing interactive systems
+5. articulate and make positive use of personal research interests, as the foundation for the student's practice
+6. learn to use various tools for communication of ideas, and prototyping
 
 
 ### Lab
@@ -134,7 +134,7 @@ Find an expression of your theme, communicate and build it using HTML, CSS and J
 
 
 
-### Project 3 
+### Project 3
 Create a site that responds to time. The site should respond to multiple variables. How does the site's content and visual appearance change from second to second? Hour to hour? Day to Day? Week to Week?
 
 
@@ -240,7 +240,7 @@ Members of the faculty are expected to provide syllabi in which course objective
 
 At Parsons, attendance and lateness are assessed as of the first day of classes. Students who register after a class has begun are responsible for any missed assignments and coursework. Students who must miss a class session
  should notify the instructor and arrange to make up any missed work as soon as possible. A student who anticipates an extended absence should immediately inform the faculty and his or her program advisor. Advance approval for an extended absence is required to ensure successful completion of the course. Withdrawal from the course may be recommended if the proposed absence would compromise a student’s ability to meet course objectives.
- 
+
 Finally, faculty are asked to notify the student’s advisor for any student who misses two consecutive class sessions without explanation or who otherwise miss a significant portion of class time. Following two absences, students may be asked to speak with their advisor to review any impediments to their successful performance in class and, if so, to provide confirmation to the faculty member that such a conversation took place.
 
 ### Religious Absences and Equivalent Opportunity
