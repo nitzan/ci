@@ -23,7 +23,7 @@ permalink: /building-with-css/
 Build an index page for yourself and add sub-directories for Lab and Studio. use the following structure:
 
 ~~~
-| index.html 
+| index.html
 |
 | studio/
 |--- week_01.html
@@ -35,7 +35,7 @@ Build an index page for yourself and add sub-directories for Lab and Studio. use
 |--- etc...
 ~~~
 
-Download the [template]({{ site.url }}/files/workshop-template_02.zip) to get started. It should look like this:  
+Download the [template]({{ site.url }}/files/02_building-with-css.zip) to get started. It should look like this:  
 
 ~~~
 | 02_building-with-css/
@@ -45,7 +45,7 @@ Download the [template]({{ site.url }}/files/workshop-template_02.zip) to get st
 |--- --- media/
 ~~~
 
-Utilize this file structure for all of your projects, external assets should be grouped within the same directory. You should always name the main html file in a directory 'index.html'. 
+Utilize this file structure for all of your projects, external assets should be grouped within the same directory. You should always name the main html file in a directory 'index.html'.
 
 
 
@@ -94,22 +94,22 @@ Often, you may want to add padding to an element without adding to the overall s
 
 The default value for block level elements is `box-sizing: content-box`  
 
-Use `border-box` to ensure padding is included when the `width` and `height` properties of a block level elemenet are declared. 
+Use `border-box` to ensure padding is included when the `width` and `height` properties of a block level elemenet are declared.
 
 
 
 
 ## CSS Positioning
 
-Positions in a web document are calculated from the top-left corner of the page. 
+Positions in a web document are calculated from the top-left corner of the page.
 
 The `position` property describes how an element is positioned. We will take a look at the following position properties:  
 
 ~~~
-position: static 
-position: relative 
+position: static
+position: relative
 position: absolute  
-position: fixed 
+position: fixed
 ~~~
 
 You can use position values and set the `top` `right` `bottom` and `left` properties to position an element.
@@ -121,21 +121,23 @@ This is the default value for an element in the DOM. Nothing special here. An el
 This value positions an element relative to **where it would normally be placed within the DOM**.
 
 #### Position: Absolute
-This value positions an element relative to its nearest **positioned** ancestor. That means relative to an ancestor that has a position value other than `static`. An Absolutely positioned element is also taken out of the normal flow of the DOM — it's siblings will be positioned as if they were unaware of it's existance. 
+This value positions an element relative to its nearest **positioned** ancestor. That means relative to an ancestor that has a position value other than `static`. An Absolutely positioned element is also taken out of the normal flow of the DOM — it's siblings will be positioned as if they were unaware of it's existance.
 
 #### Position: Fixed
-This value positions an element relative to the viewport. So it will always stay in the same place, even if the windw is scaled or scrolled. Elements with a fixed position are also taken out of the normal flow of the DOM. 
+This value positions an element relative to the viewport. So it will always stay in the same place, even if the window is scaled or scrolled. Elements with a fixed position are also taken out of the normal flow of the DOM.
 
 
 
 ## Resources
 
+[Completed Workshop Files]({{ site.url }}/files/02_building-with-css_completed.zip/)  
 [HTML5 Elements](http://www.w3schools.com/html/html5_new_elements.asp)  
-[Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)
+[Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)   
+
 
 
 
 ## Homework
 
 [An Index]({{ site.url }}/assignments/an-index/)  
-[A Collection]({{ site.url }}/assignments/a-collection/) 
+[A Collection]({{ site.url }}/assignments/a-collection/)
