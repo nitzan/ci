@@ -18,7 +18,7 @@ permalink: /a-colleciton/
 *— Lev Manovich, The Language of New Media*  
 
 
-## Build a collection of media objects with the theme of your choosing. Create an interface to navigate through and create groups within your archive. What are the different ways you may organize the content? How may the structure of your collection reflect or alter the meaning communicated?
+## Build a collection of media objects with the theme you chose. Create an interface to navigate through and create groups within your archive. What are the different ways you may organize the content? How may the structure of your collection reflect or alter the meaning communicated?
 
 
 
