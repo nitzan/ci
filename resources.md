@@ -10,10 +10,11 @@ permalink: /about/
 [Syllabus](http://files.bryantwells.com/core-interaction_syllabus.pdf)
 
 
-<br>
+
 ~~~  
+cd some/dir/
 git status  
 git add .  
-git commit -m "some message"  
+git commit -m "some msg"  
 git push origin master  
 ~~~  

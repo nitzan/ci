@@ -13,7 +13,7 @@ permalink: /a-colleciton/
 <br>
 
 > ... in a computer age the database comes to function as a cultural form in it's own right. It offers a particular model of the world and of the human experience.  
-> 
+>
 
 *— Lev Manovich, The Language of New Media*  
 
@@ -62,12 +62,13 @@ Think about how design of the site can support the communication of an ideal. Is
 
 
 ## Inspiration
-[Database as a Symbolic Form]({{ site.url }}/files/manovich_database.pdf)  
-[Colors Magazine Issue 13](https://blog.imagesource.com/making-you-look-colors-magazine-issue13-part-two/)    
+[Database as a Symbolic Form]({{ site.url }}/files/manovich_database.pdf)   
 [Internet Archive](https://vimeo.com/59207751)  
+[Delinear](delinear.info)    
 [Rosemary Butcher](http://rosemarybutcher.com/)  
-[Ernest Protasiewic](http://ernestprotasiewicz.com/projects/come)  
+[Ernest Protasiewic](http://ernestprotasiewicz.com/)  
 [Raf Simons Fall 16](http://rafsimons.com/fall16)  
 [Harsh Patel Drawer](http://harshpatel.com/drawer)  
 [One Terabyte of Kilobyte Age](http://oneterabyteofkilobyteage.tumblr.com/)  
 [All The Minutes](http://alltheminutes.com/)
+[Colors Magazine Issue 13](https://blog.imagesource.com/making-you-look-colors-magazine-issue13-part-two/)   
