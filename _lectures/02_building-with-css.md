@@ -130,7 +130,7 @@ This value positions an element relative to the viewport. So it will always stay
 
 ## Resources
 
-[Completed Workshop Files]({{ site.url }}/files/02_building-with-css_completed.zip/)  
+[Completed Workshop Files]({{ site.url }}/files/02_building-with-css_completed.zip)  
 [HTML5 Elements](http://www.w3schools.com/html/html5_new_elements.asp)  
 [Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/)   
 
