@@ -9,7 +9,7 @@ Welcome.
 
 
 Studio  
-9 – 11:40 (Tuesday, Friday)  
+9 – 11:40am (Tuesday, Friday)  
 [Nitzan Hermon](mailto:x@vvvvvv.co)  
 
 

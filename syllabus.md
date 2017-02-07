@@ -4,32 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-# Syllabus
-
-Parsons School for Design  
-Communication Design  
-Core Interaction  
-PUCD 2125
-Spring 2017
-
-
-Studio
-9 – 11:40am
-Tuesday, Friday 
-[Nitzan Hermon](mailto:x@byed.it)
-
-
-Lab
-9 – 11:40am   
-Thursdays
-[Bryant Wells](mailto:bryant@bryantwells.com)
-
-
-
-
-
-
-# Course Description
+## Course Description
 
 ### Studio
 We will exercise thinking and communication individually and as a group. We will use the course material, and our own thinking patterns as the foundation for building our respective practices
@@ -39,7 +14,7 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 
 
 
-# Course Outline
+## Course Outline
 
 *Below is a rough outline of the semester, subject to change.*
 
@@ -64,13 +39,14 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 |  15 | Final Critique | Thinking ahead: How to approach interests
 
 
+<br>
 
-# Learning Outcomes
+
+## Learning Outcomes
 
 *By the end of the semester, students will be able to:*
 
-
-### Studio 
+*Studio*
 
 1. gain a broad understanding of the fundamentals of interfaces, interface design and interactive systems 
 2. understand the mechanics of a digital product, and various approaches to designing systems 
@@ -80,7 +56,7 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 6. learn to use various tools for communication of ideas, and prototyping 
 
 
-### Lab
+*Lab*
 
 1. Apply Skills in HTML:
     * Standards: W3C, the World Wide Web Consortium: W3C recommendations as standards.
@@ -121,7 +97,7 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 
 
 
-# Assessable Tasks
+## Assessable Tasks
 
 ### Project 1
 
