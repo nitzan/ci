@@ -64,11 +64,11 @@ Think about how design of the site can support the communication of an ideal. Is
 ## Inspiration
 [Database as a Symbolic Form]({{ site.url }}/files/manovich_database.pdf)   
 [Internet Archive](https://vimeo.com/59207751)  
-[Delinear](delinear.info)    
+[Delinear](http://delinear.info)    
 [Rosemary Butcher](http://rosemarybutcher.com/)  
 [Ernest Protasiewic](http://ernestprotasiewicz.com/)  
 [Raf Simons Fall 16](http://rafsimons.com/fall16)  
 [Harsh Patel Drawer](http://harshpatel.com/drawer)  
 [One Terabyte of Kilobyte Age](http://oneterabyteofkilobyteage.tumblr.com/)  
-[All The Minutes](http://alltheminutes.com/)
+[All The Minutes](http://alltheminutes.com/)  
 [Colors Magazine Issue 13](https://blog.imagesource.com/making-you-look-colors-magazine-issue13-part-two/)   
