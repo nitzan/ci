@@ -30,7 +30,7 @@ cd /path/to/folder/username.github.io
 git status
 ~~~
 
-![](/Users/bryantwells/Desktop/Screen Shot 2017-02-09 at 11.42.19 AM.png)  
+![]({{site.url}}/files/git_1.png)  
 
 
 ### 2. Commit the Changes 
@@ -44,7 +44,7 @@ git add .
 git commit -m "[some message]"
 ~~~  
 
-![](/Users/bryantwells/Desktop/Screen Shot 2017-02-09 at 11.42.41 AM.png)
+![]({{site.url}}/files/git_2.png)
 
 
 
@@ -56,7 +56,7 @@ Finally, we push the contents of our local repo to the remote repo on Github usi
 git push origin master
 ~~~  
 
-![](/Users/bryantwells/Desktop/Screen Shot 2017-02-09 at 11.42.54 AM.png)
+![]({{site.url}}/files/git_3.png)
 
 
 ## Troubleshooting
