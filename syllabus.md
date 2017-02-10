@@ -3,10 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
-<<<<<<< HEAD
 ## Course Description
-=======
 # Syllabus
 
 Parsons School for Design  
@@ -33,7 +30,6 @@ Thursdays
 
 
 # Course Description
->>>>>>> a02ad0614b791f531a6534baac5771290c96a12a
 
 ### Studio
 We will exercise thinking and communication individually and as a group. We will use the course material, and our own thinking patterns as the foundation for building our respective practices
@@ -75,11 +71,8 @@ This course serves as a complement to Core Studio Interaction. The assignments a
 
 *By the end of the semester, students will be able to:*
 
-<<<<<<< HEAD
 *Studio*
-=======
-### Studio
->>>>>>> a02ad0614b791f531a6534baac5771290c96a12a
+
 
 1. gain a broad understanding of the fundamentals of interfaces, interface design and interactive systems
 2. understand the mechanics of a digital product, and various approaches to designing systems
