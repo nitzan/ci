@@ -47,10 +47,9 @@ Collect at least 5 examples of media objects that represent potential items for 
 
 *Due Tuesday, Feb 14*
 
-Collect the rest of the media for your website. Create 3 proposals for a website for your archive. You should have a minumum of four schema for organizing, navigating, grouping, filtering, or sorting that you would like to focus on.  
+Collect the rest of the media for your website. Create 1 to 3 low-fidelity variations of your archive. Focus on layout, user flow and the mechanics of the page. You should have a minimum of four schema for organizing, navigating, grouping, filtering, or sorting that you would like to focus on.  
 
-After meeting with the class and recieving feedback, create 3 more directions that focus on your chosen direction. Continue to refine the site structure, navigation and content by exploring alternative options.
-
+After presenting your idea to the class you should have a winning direction, which you would then develop to higher fidelity, before moving to code. 
 
 
 
