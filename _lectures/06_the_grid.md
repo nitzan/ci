@@ -75,12 +75,12 @@ Open up your paper and run a pen or pencil on the lines you just marked. That is
 ### Making the grid 
 
 
-> The problem posed but he job must be studied before work can begin 
+> The problem posed by the job must be studied before work can begin 
 
 
 _I repeat!_
 
-> The problem posed but he job must be studied before work can begin 
+> The problem posed by the job must be studied before work can begin 
 
 
 In a sophisticated grid system not only the lines of text align with the pictures but also the captions and the display letter, titles and subtitles 
