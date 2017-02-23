@@ -5,7 +5,7 @@ title: 'A Collection'
 lab: true
 studio: true
 due: 'Week 6'
-permalink: /a-colleciton/
+permalink: /a-collection/
 ---
 
 *Due Week 6*
