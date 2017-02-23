@@ -4,7 +4,7 @@ category: assignments
 title: 'A Collection'
 lab: true
 studio: true
-due: 'Week 5'
+due: 'Week 7'
 permalink: /a-colleciton/
 ---
 
@@ -45,11 +45,36 @@ Collect at least 5 examples of media objects that represent potential items for 
 
 ## Part 2: Design
 
-*Due Tuesday, Feb 14*
+*Due Thursday, Feb 23*
 
 Collect the rest of the media for your website. Create 1 to 3 low-fidelity variations of your archive. Focus on layout, user flow and the mechanics of the page. You should have a minimum of four schema for organizing, navigating, grouping, filtering, or sorting that you would like to focus on.  
 
 After presenting your idea to the class you should have a winning direction, which you would then develop to higher fidelity, before moving to code. 
+
+
+
+## Part 3: Development
+
+*Due Tuesday, Mar 7*
+
+Using your design as a reference, build your collection using HTML and CSS! The structure of your collection should be as follows:
+
+~~~
+| index.html
+|
+| a_collection /
+|--- index.html
+|--- 01_some-grouping.html
+|--- 02_another-grouping.html
+|--- 03_some-other-grouping.html
+|--- assets/
+|--- --- media/
+|--- --- css/
+|--- --- js/
+|
+| studio/
+| lab/
+~~~
 
 
 
