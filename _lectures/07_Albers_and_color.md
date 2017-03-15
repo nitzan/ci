@@ -67,7 +67,11 @@ Silent film, 11:33](http://www.albersfoundation.org/teaching/josef-albers/introd
 
 ### Exercise
 
-Use HTML and CSS to place, and overlap at least 3 color squares on a page. Using the shapes create a colors interaction. The top of the page should have a verbal explanation of the color decisions using the words shades, tints, tone, hue or analogous colors.
+Use HTML and CSS to place, and overlap at least 3 color squares on a page. Use the shapes to create an interaction based on color. 
+
+The top of the page should have a verbal explanation of the color decisions using the words shades, tints, tone, hue or analogous colors.
+
+Publish the page on your website.
 
 
 
