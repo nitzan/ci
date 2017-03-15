@@ -52,7 +52,7 @@ Silent film, 11:33](http://www.albersfoundation.org/teaching/josef-albers/introd
 [ [continued…](http://www.rit.edu/~w-rkelly/html/04_cou/cou_col1.html) ] 
 
 
-### Some Highlights
+### Some Highlights:
 
 1. Hue refers to one color; color refers to one or several hues; color and hue can be interchangeable, while chroma refers to all color including shades, tints and tones.
 2. Intensity, saturation or brilliance are interchangeable terms. Refers to higher or lower in degrees of vividness. Diluted or undiluted color or pigmentation.
