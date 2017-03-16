@@ -1,4 +1,11 @@
-## Intro to Javascript
+---
+layout: post
+category: lectures
+title: 'Intro To Javascript'
+lab: true
+studio: false
+permalink: /js-intro/
+---  
 
 Use Javascript to make a webpage more interactive. So far we have been focusing on styling webpages with CSS (aesthetics, visibility, etc). Javascript is a language that allows us to compute and perform actions within a website. Most interactive libraries on the web are based in javascript. JS is great for watching for events in the browser and react accordingly (more on that later).
 
