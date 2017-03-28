@@ -10,11 +10,11 @@ permalink: /final-project/
 
 Write, design and build a blog that covers the topic you explored during the course. It needs to contain a minimum of 8 posts, and an about section. 
 
-The homepage of your site will have an excerpt of each post, with or without an image, and will link to individual post pages. You will also need to link about to your about section.
+The homepage of your site will have an excerpt of each post, with or without an image, and will link to individual post pages. You will also need to link to your about section.
 
 You will need to create at least 2 templates (page, post), with the opportunity to develop further templates for individual posts.
 
-Each post needs to include a title, body (minimum of 300 words), at least one image and a social media footer (Facebook like, Twitter share et al). Bonus points for cross-browser navigation.
+Each post needs to include a title, body (minimum of 300 words), at least one image and a social media footer (Facebook like, Twitter share et al). Bonus points for cross-post navigation.
 
 All pages need to have consist navigation.
 
