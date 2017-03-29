@@ -16,7 +16,7 @@ You will need to create at least 2 templates (page, post), with the opportunity 
 
 Each post needs to include a title, body (minimum of 300 words), at least one image and a social media footer (Facebook like, Twitter share et al). Bonus points for cross-post navigation.
 
-All pages need to have consist navigation.
+All pages need to have consistent navigation.
 
 
 - Homepage
@@ -37,3 +37,5 @@ Important considerations:
 - Your website will need to be responsive for a phone and tablet screen size.
 
 - Make sure to add an interactive element to your site that communicates with your subject matter
+
+- Think about the structure, design, and behaviour of your site. It should directly relate to, and help contextualize the content presented.
