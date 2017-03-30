@@ -536,12 +536,6 @@ a.site-title {
   a.site-title:hover {
     border-bottom: 0; }
 
-body {
-  /* replace with your selector */
-  font-family: "Ennore Regular";
-  font-weight: normal;
-  font-style: normal; }
-
 sup {
   background: none;
   font-style: italic;
@@ -598,3 +592,21 @@ h3 {
 
 .index-page-content {
   padding-bottom: 100px; }
+
+body {
+  /* replace with your selector */
+  font-family: "November Pro ExtraLight";
+  font-weight: normal;
+  font-style: normal; }
+
+b, h1, h2, h3 {
+  /* replace with your selector */
+  font-family: "November Pro Black";
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  /* replace with your selector */
+  font-family: "Panorama Condensed Light";
+  font-weight: normal;
+  font-style: normal; }
