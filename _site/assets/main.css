@@ -593,32 +593,26 @@ h3 {
 .index-page-content {
   padding-bottom: 100px; }
 
+b, strong {
+  /* replace with your selector */
+  font-family: "Ennore Bold";
+  font-weight: normal;
+  font-style: normal; }
+
+em, i, blockquote {
+  /* replace with your selector */
+  font-family: "Ennore Light";
+  font-weight: normal;
+  font-style: normal; }
+
+small {
+  /* replace with your selector */
+  font-family: "Ennore Medium";
+  font-weight: normal;
+  font-style: normal; }
+
 body {
   /* replace with your selector */
-  font-family: "November Pro ExtraLight";
+  font-family: "Ennore Medium";
   font-weight: normal;
   font-style: normal; }
-
-b, h1, h2, h3 {
-  /* replace with your selector */
-  font-family: "November Pro Black";
-  font-weight: normal;
-  font-style: normal; }
-
-body {
-  /* replace with your selector */
-  font-family: "Panorama Condensed Light";
-  font-weight: normal;
-  font-style: normal; }
-
-em, i {
-  font-style: normal; }
-
-blockquote {
-  line-height: 1.3em;
-  font-weight: normal;
-  border-left-style: double; }
-
-sup {
-  font-style: normal;
-  letter-spacing: 1px; }
