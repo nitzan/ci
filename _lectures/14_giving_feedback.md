@@ -28,4 +28,4 @@ For example:
 > - You should mention anything you have learned from your target.
 > - Only then are you permitted to say so much as a word of rebuttal or criticism.
 
-Excerpt from _Intuition Pumps And Other Tools for Thinking, Daniel C. Dennett_ -- [source](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/) 
+Excerpt from _Intuition Pumps And Other Tools for Thinking, Daniel C. Dennett_ -- [via Brain Pickings](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/) 
